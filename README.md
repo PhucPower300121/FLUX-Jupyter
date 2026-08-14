@@ -12,3 +12,4 @@ a collection of notebooks for running FLUX generative imaging models
 | --- | --- |
 | <a href="https://colab.research.google.com/github/PhucPower300121/FLUX-Jupyter/blob/main/flux2_klein_i2i_colab.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | FLUX.2 Klein 4B 4-bit GGUF on Google Colab |
 | <a href="https://colab.research.google.com/github/PhucPower300121/FLUX-Jupyter/blob/main/flux2_klein_i2i_colab_8bit.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | FLUX.2 Klein 4B 8-bit GGUF on Google Colab |
+| <a href="https://colab.research.google.com/github/PhucPower300121/FLUX-Jupyter/blob/main/flux_dev_t2i_gguf.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | FLUX.1 [DEV] 12B 4-bit GGUF T2I on Google Colab |
