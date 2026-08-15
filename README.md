@@ -7,6 +7,7 @@ a collection of notebooks for running FLUX generative imaging models
 - [FLUX.2-Klein-4B-GGUF(Unsloth)](https://www.google.com/url?q=https%3A%2F%2Fhuggingface.co%2Funsloth%2FFLUX.2-klein-4B-GGUF)
 - [FLUX.1-(dev)-12B-GGUF(City96)](https://www.google.com/url?q=https%3A%2F%2Fhuggingface.co%2Fcity96%2FFLUX.1-dev-gguf)
 - [FLUX.1-Kontext-12B-GGUF(Unsloth)](https://www.google.com/url?q=https%3A%2F%2Fhuggingface.co%2Funsloth%2FFLUX.1-Kontext-dev-GGUF)
+- [FLUX.1-Schnell-12B-GGUF(City96)](https://www.google.com/url?q=https%3A%2F%2Fhuggingface.co%2Fcity96%2FFLUX.1-schnell-gguf)
 
 # Notebook link
 | Links | description |
@@ -18,4 +19,5 @@ a collection of notebooks for running FLUX generative imaging models
 | <a href="https://colab.research.google.com/github/PhucPower300121/FLUX-Jupyter/blob/main/flux_dev_i2i_colab.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | FLUX.1 [DEV] 12B 4-bit GGUF i2i on Google Colab |
 | <a href="https://colab.research.google.com/github/PhucPower300121/FLUX-Jupyter/blob/main/flux_dev_t2i_gguf.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | FLUX.1 [DEV] 12B 4-bit GGUF t2i on Google Colab |
 | <a href="https://colab.research.google.com/github/PhucPower300121/FLUX-Jupyter/blob/main/flux1_kontext_i2i_colab.ipynb" target="_parent\"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | FLUX.1 [Kontext] 12B 4-bit i2i on Google Colab |
+| <a href="https://colab.research.google.com/github/PhucPower300121/FLUX-Jupyter/blob/main/flux_schnell_t2i_gguf.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> | FLUX.1 Schnell 12B 4-bit GGUF t2i on Google Colab |
 
